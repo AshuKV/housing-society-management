@@ -1,5 +1,5 @@
 
-**Note:** Optimized only for mobile. May not render correctly on large screens
+**Note:** Optimized only for small screens, may not render on large screens appropriately.
 
 Admin login details:
 ```
